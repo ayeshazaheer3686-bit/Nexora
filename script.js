@@ -9,7 +9,7 @@
 ========================================= */
 
 const launchDate =
-    new Date("December 31, 2026 00:00:00").getTime();
+    new Date("Nov 9,2026 00:00:00").getTime();
 
 const countdown =
     setInterval(function () {
